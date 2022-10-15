@@ -1,0 +1,2 @@
+# mygit
+this my git
